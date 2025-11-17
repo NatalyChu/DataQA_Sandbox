@@ -1,0 +1,868 @@
+[2025-11-17T08:42:34.999+0000] {processor.py:161} INFO - Started process (PID=97771) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:42:35.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:42:35.001+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:42:35.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:42:35.668+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:42:35.713+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:42:35.713+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:42:35.717+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:42:35.717+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:42:35.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.739 seconds
+[2025-11-17T08:43:06.264+0000] {processor.py:161} INFO - Started process (PID=97861) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:43:06.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:43:06.266+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:43:06.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:43:06.461+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:43:06.500+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:43:06.499+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:43:06.503+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:43:06.503+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:43:06.509+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.248 seconds
+[2025-11-17T08:43:36.981+0000] {processor.py:161} INFO - Started process (PID=97884) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:43:36.982+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:43:36.983+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:43:36.983+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:43:37.170+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:43:37.206+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:43:37.206+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:43:37.209+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:43:37.209+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:43:37.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.237 seconds
+[2025-11-17T08:44:07.579+0000] {processor.py:161} INFO - Started process (PID=97907) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:44:07.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:44:07.580+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:44:07.580+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:44:07.772+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:44:07.807+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:44:07.806+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:44:07.813+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:44:07.812+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:44:07.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.243 seconds
+[2025-11-17T08:44:38.260+0000] {processor.py:161} INFO - Started process (PID=97930) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:44:38.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:44:38.262+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:44:38.262+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:44:38.446+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:44:38.482+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:44:38.482+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:44:38.485+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:44:38.485+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:44:38.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T08:45:08.940+0000] {processor.py:161} INFO - Started process (PID=97953) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:45:08.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:45:08.943+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:45:08.943+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:45:09.124+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:45:09.159+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:45:09.158+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:45:09.162+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:45:09.162+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:45:09.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T08:45:39.570+0000] {processor.py:161} INFO - Started process (PID=97976) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:45:39.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:45:39.572+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:45:39.571+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:45:39.751+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:45:39.785+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:45:39.785+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:45:39.791+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:45:39.791+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:45:39.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.229 seconds
+[2025-11-17T08:46:10.224+0000] {processor.py:161} INFO - Started process (PID=97999) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:46:10.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:46:10.226+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:46:10.225+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:46:10.410+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:46:10.447+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:46:10.447+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:46:10.451+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:46:10.450+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:46:10.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.236 seconds
+[2025-11-17T08:46:40.871+0000] {processor.py:161} INFO - Started process (PID=98022) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:46:40.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:46:40.873+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:46:40.873+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:46:41.060+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:46:41.091+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:46:41.091+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:46:41.095+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:46:41.095+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:46:41.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T08:47:11.518+0000] {processor.py:161} INFO - Started process (PID=98045) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:47:11.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:47:11.520+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:47:11.520+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:47:11.702+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:47:11.734+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:47:11.734+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:47:11.737+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:47:11.737+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:47:11.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.228 seconds
+[2025-11-17T08:47:42.231+0000] {processor.py:161} INFO - Started process (PID=98068) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:47:42.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:47:42.233+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:47:42.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:47:42.416+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:47:42.451+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:47:42.450+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:47:42.454+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:47:42.454+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:47:42.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T08:48:12.887+0000] {processor.py:161} INFO - Started process (PID=98091) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:48:12.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:48:12.889+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:48:12.889+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:48:13.067+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:48:13.099+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:48:13.099+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:48:13.102+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:48:13.102+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:48:13.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.224 seconds
+[2025-11-17T08:48:43.539+0000] {processor.py:161} INFO - Started process (PID=98114) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:48:43.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:48:43.541+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:48:43.541+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:48:43.721+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:48:43.756+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:48:43.756+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:48:43.763+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:48:43.763+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:48:43.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T08:49:14.157+0000] {processor.py:161} INFO - Started process (PID=98137) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:49:14.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:49:14.160+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:49:14.160+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:49:14.339+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:49:14.375+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:49:14.375+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:49:14.379+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:49:14.379+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:49:14.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T08:49:44.821+0000] {processor.py:161} INFO - Started process (PID=98160) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:49:44.822+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:49:44.823+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:49:44.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:49:45.004+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:49:45.040+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:49:45.040+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:49:45.045+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:49:45.045+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:49:45.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T08:50:15.449+0000] {processor.py:161} INFO - Started process (PID=98183) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:50:15.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:50:15.451+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:50:15.451+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:50:15.632+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:50:15.669+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:50:15.669+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:50:15.672+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:50:15.672+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:50:15.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T08:50:46.162+0000] {processor.py:161} INFO - Started process (PID=98206) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:50:46.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:50:46.164+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:50:46.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:50:46.347+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:50:46.378+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:50:46.378+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:50:46.381+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:50:46.381+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:50:46.387+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.228 seconds
+[2025-11-17T08:51:16.905+0000] {processor.py:161} INFO - Started process (PID=98229) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:51:16.905+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:51:16.906+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:51:16.906+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:51:17.091+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:51:17.127+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:51:17.127+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:51:17.133+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:51:17.133+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:51:17.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.237 seconds
+[2025-11-17T08:51:47.647+0000] {processor.py:161} INFO - Started process (PID=98252) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:51:47.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:51:47.649+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:51:47.649+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:51:47.832+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:51:47.867+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:51:47.867+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:51:47.871+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:51:47.871+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:51:47.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T08:52:18.402+0000] {processor.py:161} INFO - Started process (PID=98275) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:52:18.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:52:18.403+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:52:18.403+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:52:18.591+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:52:18.626+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:52:18.626+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:52:18.629+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:52:18.629+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:52:18.635+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.237 seconds
+[2025-11-17T08:52:49.143+0000] {processor.py:161} INFO - Started process (PID=98298) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:52:49.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:52:49.145+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:52:49.145+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:52:49.331+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:52:49.363+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:52:49.363+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:52:49.368+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:52:49.368+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:52:49.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T08:53:19.920+0000] {processor.py:161} INFO - Started process (PID=98321) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:53:19.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:53:19.922+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:53:19.921+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:53:20.101+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:53:20.136+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:53:20.136+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:53:20.142+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:53:20.142+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:53:20.148+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T08:53:50.633+0000] {processor.py:161} INFO - Started process (PID=98344) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:53:50.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:53:50.634+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:53:50.634+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:53:50.817+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:53:50.853+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:53:50.852+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:53:50.856+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:53:50.856+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:53:50.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T08:54:21.393+0000] {processor.py:161} INFO - Started process (PID=98367) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:54:21.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:54:21.396+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:54:21.396+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:54:21.582+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:54:21.616+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:54:21.616+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:54:21.620+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:54:21.620+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:54:21.626+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.236 seconds
+[2025-11-17T08:54:52.138+0000] {processor.py:161} INFO - Started process (PID=98390) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:54:52.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:54:52.140+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:54:52.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:54:52.317+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:54:52.352+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:54:52.352+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:54:52.355+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:54:52.355+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:54:52.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.227 seconds
+[2025-11-17T08:55:22.870+0000] {processor.py:161} INFO - Started process (PID=98413) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:55:22.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:55:22.872+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:55:22.871+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:55:23.055+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:55:23.092+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:55:23.092+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:55:23.095+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:55:23.095+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:55:23.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T08:55:53.615+0000] {processor.py:161} INFO - Started process (PID=98442) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:55:53.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:55:53.617+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:55:53.616+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:55:53.794+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:55:53.836+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:55:53.836+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:55:53.840+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:55:53.840+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:55:53.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T08:56:24.250+0000] {processor.py:161} INFO - Started process (PID=98465) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:56:24.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:56:24.252+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:56:24.252+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:56:24.437+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:56:24.470+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:56:24.470+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:56:24.475+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:56:24.475+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:56:24.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T08:56:54.969+0000] {processor.py:161} INFO - Started process (PID=98488) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:56:54.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:56:54.971+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:56:54.970+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:56:55.157+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:56:55.196+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:56:55.196+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:56:55.202+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:56:55.202+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:56:55.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.242 seconds
+[2025-11-17T08:57:25.738+0000] {processor.py:161} INFO - Started process (PID=98511) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:57:25.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:57:25.740+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:57:25.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:57:25.944+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:57:25.985+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:57:25.985+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:57:25.992+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:57:25.992+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:57:26.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.264 seconds
+[2025-11-17T08:57:56.475+0000] {processor.py:161} INFO - Started process (PID=98534) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:57:56.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:57:56.480+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:57:56.479+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:57:56.669+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:57:56.704+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:57:56.704+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:57:56.710+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:57:56.709+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:57:56.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.245 seconds
+[2025-11-17T08:58:27.157+0000] {processor.py:161} INFO - Started process (PID=98557) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:58:27.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:58:27.159+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:58:27.159+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:58:27.342+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:58:27.379+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:58:27.379+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:58:27.382+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:58:27.382+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:58:27.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T08:58:57.807+0000] {processor.py:161} INFO - Started process (PID=98580) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:58:57.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:58:57.810+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:58:57.809+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:58:57.993+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:58:58.028+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:58:58.028+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:58:58.034+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:58:58.034+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:58:58.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.236 seconds
+[2025-11-17T08:59:28.470+0000] {processor.py:161} INFO - Started process (PID=98603) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:59:28.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:59:28.472+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:59:28.472+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:59:28.657+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:59:28.693+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:59:28.692+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:59:28.696+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:59:28.696+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:59:28.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T08:59:59.165+0000] {processor.py:161} INFO - Started process (PID=98626) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:59:59.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T08:59:59.167+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:59:59.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:59:59.350+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T08:59:59.384+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:59:59.384+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T08:59:59.388+0000] {logging_mixin.py:188} INFO - [2025-11-17T08:59:59.388+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T08:59:59.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:00:29.847+0000] {processor.py:161} INFO - Started process (PID=98649) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:00:29.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:00:29.849+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:00:29.848+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:00:30.046+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:00:30.079+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:00:30.079+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:00:30.085+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:00:30.085+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:00:30.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.248 seconds
+[2025-11-17T09:01:00.496+0000] {processor.py:161} INFO - Started process (PID=98672) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:01:00.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:01:00.498+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:01:00.497+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:01:00.695+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:01:00.732+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:01:00.732+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:01:00.736+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:01:00.735+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:01:00.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.250 seconds
+[2025-11-17T09:01:31.169+0000] {processor.py:161} INFO - Started process (PID=98695) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:01:31.170+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:01:31.171+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:01:31.171+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:01:31.362+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:01:31.397+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:01:31.396+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:01:31.403+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:01:31.403+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:01:31.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.245 seconds
+[2025-11-17T09:02:01.839+0000] {processor.py:161} INFO - Started process (PID=98718) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:02:01.840+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:02:01.841+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:02:01.841+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:02:02.032+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:02:02.065+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:02:02.065+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:02:02.070+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:02:02.070+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:02:02.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.240 seconds
+[2025-11-17T09:02:32.498+0000] {processor.py:161} INFO - Started process (PID=98741) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:02:32.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:02:32.501+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:02:32.501+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:02:32.684+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:02:32.719+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:02:32.719+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:02:32.723+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:02:32.722+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:02:32.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:03:03.152+0000] {processor.py:161} INFO - Started process (PID=98764) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:03:03.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:03:03.155+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:03:03.155+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:03:03.335+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:03:03.370+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:03:03.370+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:03:03.377+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:03:03.377+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:03:03.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:03:33.823+0000] {processor.py:161} INFO - Started process (PID=98787) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:03:33.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:03:33.824+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:03:33.824+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:03:34.008+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:03:34.040+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:03:34.040+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:03:34.043+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:03:34.043+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:03:34.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.229 seconds
+[2025-11-17T09:04:04.495+0000] {processor.py:161} INFO - Started process (PID=98810) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:04:04.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:04:04.497+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:04:04.497+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:04:04.680+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:04:04.713+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:04:04.712+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:04:04.716+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:04:04.716+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:04:04.721+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T09:04:35.156+0000] {processor.py:161} INFO - Started process (PID=98833) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:04:35.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:04:35.158+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:04:35.158+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:04:35.340+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:04:35.375+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:04:35.375+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:04:35.379+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:04:35.379+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:04:35.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:05:05.804+0000] {processor.py:161} INFO - Started process (PID=98856) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:05:05.805+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:05:05.806+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:05:05.806+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:05:05.989+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:05:06.024+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:05:06.024+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:05:06.027+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:05:06.027+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:05:06.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:05:36.471+0000] {processor.py:161} INFO - Started process (PID=98879) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:05:36.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:05:36.473+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:05:36.473+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:05:36.653+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:05:36.686+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:05:36.686+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:05:36.689+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:05:36.689+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:05:36.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.228 seconds
+[2025-11-17T09:06:07.132+0000] {processor.py:161} INFO - Started process (PID=98902) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:06:07.133+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:06:07.134+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:06:07.133+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:06:07.314+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:06:07.349+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:06:07.348+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:06:07.352+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:06:07.352+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:06:07.358+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.229 seconds
+[2025-11-17T09:06:37.801+0000] {processor.py:161} INFO - Started process (PID=98925) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:06:37.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:06:37.803+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:06:37.803+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:06:37.985+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:06:38.020+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:06:38.020+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:06:38.027+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:06:38.027+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:06:38.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T09:07:08.502+0000] {processor.py:161} INFO - Started process (PID=98947) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:07:08.503+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:07:08.504+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:07:08.504+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:07:08.684+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:07:08.719+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:07:08.719+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:07:08.724+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:07:08.724+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:07:08.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.231 seconds
+[2025-11-17T09:07:39.169+0000] {processor.py:161} INFO - Started process (PID=98970) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:07:39.170+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:07:39.171+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:07:39.171+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:07:39.350+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:07:39.387+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:07:39.387+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:07:39.393+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:07:39.393+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:07:39.400+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:08:09.832+0000] {processor.py:161} INFO - Started process (PID=98993) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:08:09.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:08:09.834+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:08:09.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:08:10.023+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:08:10.056+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:08:10.055+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:08:10.060+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:08:10.060+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:08:10.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.238 seconds
+[2025-11-17T09:08:40.511+0000] {processor.py:161} INFO - Started process (PID=99016) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:08:40.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:08:40.513+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:08:40.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:08:40.699+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:08:40.735+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:08:40.735+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:08:40.740+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:08:40.740+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:08:40.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.239 seconds
+[2025-11-17T09:09:11.177+0000] {processor.py:161} INFO - Started process (PID=99039) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:09:11.178+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:09:11.179+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:09:11.179+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:09:11.374+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:09:11.409+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:09:11.408+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:09:11.414+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:09:11.414+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:09:11.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.247 seconds
+[2025-11-17T09:09:41.849+0000] {processor.py:161} INFO - Started process (PID=99062) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:09:41.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:09:41.851+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:09:41.851+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:09:42.031+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:09:42.067+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:09:42.067+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:09:42.072+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:09:42.072+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:09:42.078+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:10:12.464+0000] {processor.py:161} INFO - Started process (PID=99085) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:10:12.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:10:12.466+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:10:12.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:10:12.646+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:10:12.681+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:10:12.681+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:10:12.685+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:10:12.685+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:10:12.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.231 seconds
+[2025-11-17T09:10:43.122+0000] {processor.py:161} INFO - Started process (PID=99108) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:10:43.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:10:43.124+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:10:43.124+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:10:43.307+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:10:43.341+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:10:43.341+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:10:43.344+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:10:43.344+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:10:43.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:11:13.750+0000] {processor.py:161} INFO - Started process (PID=99131) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:11:13.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:11:13.752+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:11:13.752+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:11:13.930+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:11:13.963+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:11:13.963+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:11:13.967+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:11:13.967+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:11:13.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.226 seconds
+[2025-11-17T09:11:44.385+0000] {processor.py:161} INFO - Started process (PID=99154) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:11:44.386+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:11:44.387+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:11:44.387+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:11:44.571+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:11:44.605+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:11:44.605+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:11:44.609+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:11:44.609+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:11:44.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T09:12:15.048+0000] {processor.py:161} INFO - Started process (PID=99177) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:12:15.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:12:15.050+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:12:15.050+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:12:15.232+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:12:15.265+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:12:15.265+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:12:15.269+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:12:15.269+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:12:15.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T09:12:45.779+0000] {processor.py:161} INFO - Started process (PID=99200) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:12:45.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:12:45.781+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:12:45.781+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:12:45.954+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:12:45.988+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:12:45.988+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:12:45.992+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:12:45.992+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:12:45.998+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.220 seconds
+[2025-11-17T09:13:16.472+0000] {processor.py:161} INFO - Started process (PID=99223) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:13:16.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:13:16.474+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:13:16.474+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:13:16.666+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:13:16.699+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:13:16.698+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:13:16.702+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:13:16.702+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:13:16.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.239 seconds
+[2025-11-17T09:13:47.144+0000] {processor.py:161} INFO - Started process (PID=99246) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:13:47.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:13:47.146+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:13:47.146+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:13:47.331+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:13:47.364+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:13:47.364+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:13:47.369+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:13:47.369+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:13:47.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:14:17.783+0000] {processor.py:161} INFO - Started process (PID=99269) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:14:17.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:14:17.784+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:14:17.784+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:14:17.968+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:14:18.004+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:14:18.004+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:14:18.007+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:14:18.007+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:14:18.013+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T09:14:48.421+0000] {processor.py:161} INFO - Started process (PID=99292) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:14:48.422+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:14:48.423+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:14:48.423+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:14:48.607+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:14:48.642+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:14:48.642+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:14:48.646+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:14:48.646+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:14:48.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:15:19.087+0000] {processor.py:161} INFO - Started process (PID=99315) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:15:19.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:15:19.089+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:15:19.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:15:19.287+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:15:19.324+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:15:19.324+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:15:19.327+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:15:19.327+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:15:19.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.249 seconds
+[2025-11-17T09:15:49.783+0000] {processor.py:161} INFO - Started process (PID=99338) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:15:49.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:15:49.785+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:15:49.785+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:15:49.966+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:15:50.002+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:15:50.002+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:15:50.008+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:15:50.008+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:15:50.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.236 seconds
+[2025-11-17T09:16:20.474+0000] {processor.py:161} INFO - Started process (PID=99361) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:16:20.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:16:20.476+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:16:20.475+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:16:20.662+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:16:20.696+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:16:20.696+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:16:20.700+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:16:20.700+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:16:20.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:16:51.169+0000] {processor.py:161} INFO - Started process (PID=99384) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:16:51.170+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:16:51.171+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:16:51.171+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:16:51.355+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:16:51.387+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:16:51.387+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:16:51.394+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:16:51.394+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:16:51.400+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:17:21.837+0000] {processor.py:161} INFO - Started process (PID=99407) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:17:21.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:17:21.839+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:17:21.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:17:22.021+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:17:22.057+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:17:22.057+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:17:22.061+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:17:22.061+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:17:22.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:17:52.543+0000] {processor.py:161} INFO - Started process (PID=99430) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:17:52.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:17:52.545+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:17:52.545+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:17:52.725+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:17:52.765+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:17:52.765+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:17:52.768+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:17:52.768+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:17:52.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:18:23.187+0000] {processor.py:161} INFO - Started process (PID=99453) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:18:23.188+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:18:23.188+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:18:23.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:18:23.373+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:18:23.407+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:18:23.407+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:18:23.410+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:18:23.410+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:18:23.416+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.231 seconds
+[2025-11-17T09:18:53.802+0000] {processor.py:161} INFO - Started process (PID=99475) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:18:53.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:18:53.804+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:18:53.804+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:18:53.990+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:18:54.025+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:18:54.025+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:18:54.030+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:18:54.030+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:18:54.037+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.237 seconds
+[2025-11-17T09:19:24.474+0000] {processor.py:161} INFO - Started process (PID=99498) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:19:24.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:19:24.476+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:19:24.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:19:24.660+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:19:24.696+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:19:24.696+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:19:24.700+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:19:24.700+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:19:24.707+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:19:55.149+0000] {processor.py:161} INFO - Started process (PID=99521) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:19:55.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:19:55.151+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:19:55.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:19:55.333+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:19:55.365+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:19:55.365+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:19:55.372+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:19:55.372+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:19:55.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:20:25.789+0000] {processor.py:161} INFO - Started process (PID=99544) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:20:25.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:20:25.790+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:20:25.790+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:20:25.973+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:20:26.007+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:20:26.007+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:20:26.012+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:20:26.012+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:20:26.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:20:56.566+0000] {processor.py:161} INFO - Started process (PID=99567) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:20:56.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:20:56.568+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:20:56.568+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:20:56.749+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:20:56.783+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:20:56.783+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:20:56.790+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:20:56.790+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:20:56.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T09:21:27.362+0000] {processor.py:161} INFO - Started process (PID=99596) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:21:27.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:21:27.363+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:21:27.363+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:21:27.543+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:21:27.578+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:21:27.578+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:21:27.581+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:21:27.581+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:21:27.588+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.229 seconds
+[2025-11-17T09:21:58.072+0000] {processor.py:161} INFO - Started process (PID=99619) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:21:58.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:21:58.074+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:21:58.074+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:21:58.261+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:21:58.296+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:21:58.296+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:21:58.302+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:21:58.302+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:21:58.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.239 seconds
+[2025-11-17T09:22:28.734+0000] {processor.py:161} INFO - Started process (PID=99642) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:22:28.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:22:28.736+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:22:28.736+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:22:28.927+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:22:28.962+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:22:28.962+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:22:28.968+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:22:28.968+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:22:28.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.244 seconds
+[2025-11-17T09:22:59.409+0000] {processor.py:161} INFO - Started process (PID=99665) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:22:59.411+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:22:59.412+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:22:59.412+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:22:59.599+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:22:59.633+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:22:59.633+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:22:59.637+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:22:59.636+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:22:59.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.237 seconds
+[2025-11-17T09:23:30.036+0000] {processor.py:161} INFO - Started process (PID=99688) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:23:30.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:23:30.038+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:23:30.037+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:23:30.222+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:23:30.258+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:23:30.258+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:23:30.263+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:23:30.263+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:23:30.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.236 seconds
+[2025-11-17T09:24:00.705+0000] {processor.py:161} INFO - Started process (PID=99711) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:24:00.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:24:00.707+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:24:00.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:24:00.889+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:24:00.921+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:24:00.921+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:24:00.927+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:24:00.927+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:24:00.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T09:24:31.316+0000] {processor.py:161} INFO - Started process (PID=99734) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:24:31.318+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:24:31.319+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:24:31.318+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:24:31.506+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:24:31.544+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:24:31.543+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:24:31.550+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:24:31.550+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:24:31.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.244 seconds
+[2025-11-17T09:25:02.005+0000] {processor.py:161} INFO - Started process (PID=99757) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:25:02.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:25:02.007+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:25:02.007+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:25:02.200+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:25:02.236+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:25:02.236+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:25:02.239+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:25:02.239+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:25:02.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.244 seconds
+[2025-11-17T09:25:32.636+0000] {processor.py:161} INFO - Started process (PID=99780) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:25:32.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:25:32.638+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:25:32.638+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:25:32.816+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:25:32.849+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:25:32.849+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:25:32.853+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:25:32.853+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:25:32.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.224 seconds
+[2025-11-17T09:26:03.293+0000] {processor.py:161} INFO - Started process (PID=99803) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:26:03.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:26:03.295+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:26:03.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:26:03.479+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:26:03.512+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:26:03.512+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:26:03.515+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:26:03.515+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:26:03.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:26:33.935+0000] {processor.py:161} INFO - Started process (PID=99826) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:26:33.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:26:33.938+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:26:33.937+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:26:34.129+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:26:34.164+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:26:34.164+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:26:34.168+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:26:34.168+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:26:34.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.244 seconds
+[2025-11-17T09:27:04.581+0000] {processor.py:161} INFO - Started process (PID=99849) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:27:04.582+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:27:04.583+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:27:04.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:27:04.761+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:27:04.794+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:27:04.794+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:27:04.800+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:27:04.800+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:27:04.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.227 seconds
+[2025-11-17T09:27:35.224+0000] {processor.py:161} INFO - Started process (PID=99872) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:27:35.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:27:35.226+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:27:35.226+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:27:35.410+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:27:35.441+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:27:35.441+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:27:35.447+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:27:35.447+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:27:35.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.233 seconds
+[2025-11-17T09:28:05.913+0000] {processor.py:161} INFO - Started process (PID=99895) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:28:05.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:28:05.915+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:28:05.914+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:28:06.103+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:28:06.138+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:28:06.138+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:28:06.142+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:28:06.141+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:28:06.148+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.238 seconds
+[2025-11-17T09:28:36.594+0000] {processor.py:161} INFO - Started process (PID=99918) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:28:36.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:28:36.597+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:28:36.596+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:28:36.783+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:28:36.815+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:28:36.814+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:28:36.818+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:28:36.818+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:28:36.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:29:07.251+0000] {processor.py:161} INFO - Started process (PID=99941) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:29:07.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:29:07.253+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:29:07.253+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:29:07.436+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:29:07.468+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:29:07.468+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:29:07.471+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:29:07.471+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:29:07.478+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.229 seconds
+[2025-11-17T09:29:37.909+0000] {processor.py:161} INFO - Started process (PID=99964) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:29:37.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:29:37.911+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:29:37.911+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:29:38.090+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:29:38.125+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:29:38.125+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:29:38.131+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:29:38.131+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:29:38.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T09:30:08.549+0000] {processor.py:161} INFO - Started process (PID=99987) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:30:08.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:30:08.551+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:30:08.551+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:30:08.746+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:30:08.782+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:30:08.782+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:30:08.786+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:30:08.786+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:30:08.792+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.247 seconds
+[2025-11-17T09:30:39.211+0000] {processor.py:161} INFO - Started process (PID=311) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:30:39.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:30:39.213+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:30:39.213+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:30:39.399+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:30:39.430+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:30:39.430+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:30:39.434+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:30:39.434+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:30:39.440+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:31:09.883+0000] {processor.py:161} INFO - Started process (PID=334) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:31:09.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:31:09.885+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:31:09.885+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:31:10.067+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:31:10.100+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:31:10.099+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:31:10.106+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:31:10.106+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:31:10.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:31:40.611+0000] {processor.py:161} INFO - Started process (PID=356) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:31:40.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:31:40.612+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:31:40.612+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:31:40.788+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:31:40.822+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:31:40.821+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:31:40.825+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:31:40.825+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:31:40.830+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.222 seconds
+[2025-11-17T09:32:11.290+0000] {processor.py:161} INFO - Started process (PID=379) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:32:11.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:32:11.292+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:32:11.292+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:32:11.477+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:32:11.511+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:32:11.511+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:32:11.514+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:32:11.514+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:32:11.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:32:41.986+0000] {processor.py:161} INFO - Started process (PID=402) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:32:41.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:32:41.987+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:32:41.987+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:32:42.166+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:32:42.200+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:32:42.200+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:32:42.203+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:32:42.203+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:32:42.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.227 seconds
+[2025-11-17T09:33:12.598+0000] {processor.py:161} INFO - Started process (PID=425) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:33:12.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:33:12.600+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:33:12.600+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:33:12.782+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:33:12.816+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:33:12.816+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:33:12.819+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:33:12.819+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:33:12.826+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.230 seconds
+[2025-11-17T09:33:43.270+0000] {processor.py:161} INFO - Started process (PID=448) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:33:43.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:33:43.272+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:33:43.272+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:33:43.458+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:33:43.493+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:33:43.492+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:33:43.496+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:33:43.496+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:33:43.503+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.237 seconds
+[2025-11-17T09:34:13.908+0000] {processor.py:161} INFO - Started process (PID=471) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:34:13.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:34:13.911+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:34:13.910+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:34:14.097+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:34:14.131+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:34:14.131+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:34:14.134+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:34:14.134+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:34:14.140+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.236 seconds
+[2025-11-17T09:34:44.582+0000] {processor.py:161} INFO - Started process (PID=494) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:34:44.583+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:34:44.584+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:34:44.584+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:34:44.763+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:34:44.798+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:34:44.798+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:34:44.804+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:34:44.804+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:34:44.810+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.231 seconds
+[2025-11-17T09:35:15.256+0000] {processor.py:161} INFO - Started process (PID=517) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:35:15.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:35:15.257+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:35:15.257+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:35:15.439+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:35:15.475+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:35:15.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:35:15.478+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:35:15.478+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:35:15.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:35:45.930+0000] {processor.py:161} INFO - Started process (PID=540) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:35:45.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:35:45.932+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:35:45.931+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:35:46.118+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:35:46.154+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:35:46.154+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:35:46.159+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:35:46.159+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:35:46.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.239 seconds
+[2025-11-17T09:36:16.616+0000] {processor.py:161} INFO - Started process (PID=563) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:36:16.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:36:16.619+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:36:16.619+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:36:16.802+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:36:16.839+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:36:16.838+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:36:16.845+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:36:16.845+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:36:16.851+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.238 seconds
+[2025-11-17T09:36:47.286+0000] {processor.py:161} INFO - Started process (PID=586) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:36:47.287+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:36:47.288+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:36:47.288+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:36:47.474+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:36:47.507+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:36:47.506+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:36:47.510+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:36:47.510+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:36:47.516+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:37:17.952+0000] {processor.py:161} INFO - Started process (PID=609) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:37:17.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:37:17.954+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:37:17.954+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:37:18.136+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:37:18.171+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:37:18.171+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:37:18.177+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:37:18.177+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:37:18.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:37:48.596+0000] {processor.py:161} INFO - Started process (PID=632) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:37:48.597+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:37:48.598+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:37:48.597+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:37:48.790+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:37:48.824+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:37:48.824+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:37:48.831+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:37:48.831+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:37:48.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.245 seconds
+[2025-11-17T09:38:19.257+0000] {processor.py:161} INFO - Started process (PID=655) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:38:19.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:38:19.259+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:38:19.259+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:38:19.440+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:38:19.471+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:38:19.471+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:38:19.477+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:38:19.476+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:38:19.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.229 seconds
+[2025-11-17T09:38:49.879+0000] {processor.py:161} INFO - Started process (PID=678) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:38:49.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:38:49.881+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:38:49.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:38:50.064+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:38:50.105+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:38:50.104+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:38:50.108+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:38:50.108+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:38:50.114+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.238 seconds
+[2025-11-17T09:39:20.555+0000] {processor.py:161} INFO - Started process (PID=701) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:39:20.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:39:20.557+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:39:20.557+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:39:20.747+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:39:20.783+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:39:20.783+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:39:20.787+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:39:20.786+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:39:20.792+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.240 seconds
+[2025-11-17T09:39:51.237+0000] {processor.py:161} INFO - Started process (PID=724) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:39:51.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:39:51.239+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:39:51.239+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:39:51.425+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:39:51.459+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:39:51.459+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:39:51.462+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:39:51.462+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:39:51.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.234 seconds
+[2025-11-17T09:40:21.920+0000] {processor.py:161} INFO - Started process (PID=747) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:40:21.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:40:21.923+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:40:21.922+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:40:22.108+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:40:22.142+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:40:22.142+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:40:22.146+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:40:22.146+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:40:22.152+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:40:52.573+0000] {processor.py:161} INFO - Started process (PID=770) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:40:52.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:40:52.574+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:40:52.574+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:40:52.765+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:40:52.799+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:40:52.799+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:40:52.806+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:40:52.806+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:40:52.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.242 seconds
+[2025-11-17T09:41:23.204+0000] {processor.py:161} INFO - Started process (PID=793) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:41:23.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:41:23.206+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:41:23.206+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:41:23.405+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:41:23.439+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:41:23.439+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:41:23.446+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:41:23.446+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:41:23.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.253 seconds
+[2025-11-17T09:41:53.866+0000] {processor.py:161} INFO - Started process (PID=816) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:41:53.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:41:53.868+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:41:53.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:41:54.067+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:41:54.105+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:41:54.104+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:41:54.108+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:41:54.108+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:41:54.114+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.251 seconds
+[2025-11-17T09:42:24.499+0000] {processor.py:161} INFO - Started process (PID=839) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:42:24.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:42:24.502+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:42:24.501+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:42:24.685+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:42:24.719+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:42:24.719+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:42:24.722+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:42:24.722+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:42:24.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.232 seconds
+[2025-11-17T09:42:55.183+0000] {processor.py:161} INFO - Started process (PID=862) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:42:55.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:42:55.185+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:42:55.185+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:42:55.371+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:42:55.406+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:42:55.406+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:42:55.414+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:42:55.414+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:42:55.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.241 seconds
+[2025-11-17T09:43:25.851+0000] {processor.py:161} INFO - Started process (PID=885) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:43:25.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:43:25.853+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:43:25.852+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:43:26.034+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:43:26.069+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:43:26.068+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:43:26.076+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:43:26.076+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:43:26.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.235 seconds
+[2025-11-17T09:43:56.527+0000] {processor.py:161} INFO - Started process (PID=908) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:43:56.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:43:56.529+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:43:56.529+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:43:56.720+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:43:56.755+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:43:56.754+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:43:56.760+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:43:56.760+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:43:56.767+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.242 seconds
+[2025-11-17T09:44:27.198+0000] {processor.py:161} INFO - Started process (PID=931) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:44:27.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:44:27.202+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:44:27.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:44:27.403+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:44:27.436+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:44:27.436+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:44:27.441+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:44:27.441+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:44:27.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.252 seconds
+[2025-11-17T09:44:57.854+0000] {processor.py:161} INFO - Started process (PID=954) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:44:57.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:44:57.856+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:44:57.856+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:44:58.036+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:44:58.070+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:44:58.070+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:44:58.076+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:44:58.076+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:44:58.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.231 seconds
+[2025-11-17T09:45:28.458+0000] {processor.py:161} INFO - Started process (PID=977) to work on /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:45:28.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dump_pokemons_info_dag.py for tasks to queue
+[2025-11-17T09:45:28.461+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:45:28.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:45:28.661+0000] {processor.py:840} INFO - DAG(s) 'dump_pokemons_info_dag' retrieved from /opt/airflow/dags/dump_pokemons_info_dag.py
+[2025-11-17T09:45:28.698+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:45:28.698+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-11-17T09:45:28.705+0000] {logging_mixin.py:188} INFO - [2025-11-17T09:45:28.705+0000] {dag.py:3823} INFO - Setting next_dagrun for dump_pokemons_info_dag to None, run_after=None
+[2025-11-17T09:45:28.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dump_pokemons_info_dag.py took 0.257 seconds

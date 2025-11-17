@@ -1,0 +1,13 @@
+[2025-04-01T09:40:55.612+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: load_pokemons_info_dag.load_generations manual__2025-04-01T09:40:51.519775+00:00 [queued]>
+[2025-04-01T09:40:55.628+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: load_pokemons_info_dag.load_generations manual__2025-04-01T09:40:51.519775+00:00 [queued]>
+[2025-04-01T09:40:55.629+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-04-01T09:40:55.640+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): load_generations> on 2025-04-01 09:40:51.519775+00:00
+[2025-04-01T09:40:55.654+0000] {standard_task_runner.py:60} INFO - Started process 62723 to run task
+[2025-04-01T09:40:55.684+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'load_pokemons_info_dag', 'load_generations', 'manual__2025-04-01T09:40:51.519775+00:00', '--job-id', '70', '--raw', '--subdir', 'DAGS_FOLDER/load_pokemons_info_dag.py', '--cfg-path', '/tmp/tmpvyyr2dkw']
+[2025-04-01T09:40:55.706+0000] {standard_task_runner.py:88} INFO - Job 70: Subtask load_generations
+[2025-04-01T09:40:55.899+0000] {task_command.py:423} INFO - Running <TaskInstance: load_pokemons_info_dag.load_generations manual__2025-04-01T09:40:51.519775+00:00 [running]> on host c082e54ac3bd
+[2025-04-01T09:40:56.094+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='load_pokemons_info_dag' AIRFLOW_CTX_TASK_ID='load_generations' AIRFLOW_CTX_EXECUTION_DATE='2025-04-01T09:40:51.519775+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-01T09:40:51.519775+00:00'
+[2025-04-01T09:40:57.117+0000] {api_functions.py:223} INFO - generations successfully ingested into the database
+[2025-04-01T09:40:57.119+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-04-01T09:40:57.138+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=load_pokemons_info_dag, task_id=load_generations, execution_date=20250401T094051, start_date=20250401T094055, end_date=20250401T094057
+[2025-04-01T09:40:57.176+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0

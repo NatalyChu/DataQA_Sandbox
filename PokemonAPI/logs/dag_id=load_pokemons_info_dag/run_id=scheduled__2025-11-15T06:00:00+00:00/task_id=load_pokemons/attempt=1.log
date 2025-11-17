@@ -1,0 +1,13 @@
+[2025-11-17T08:42:38.300+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: load_pokemons_info_dag.load_pokemons scheduled__2025-11-15T06:00:00+00:00 [queued]>
+[2025-11-17T08:42:38.303+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: load_pokemons_info_dag.load_pokemons scheduled__2025-11-15T06:00:00+00:00 [queued]>
+[2025-11-17T08:42:38.306+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-11-17T08:42:38.311+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): load_pokemons> on 2025-11-15 06:00:00+00:00
+[2025-11-17T08:42:38.313+0000] {standard_task_runner.py:60} INFO - Started process 97800 to run task
+[2025-11-17T08:42:38.315+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'load_pokemons_info_dag', 'load_pokemons', 'scheduled__2025-11-15T06:00:00+00:00', '--job-id', '76', '--raw', '--subdir', 'DAGS_FOLDER/load_pokemons_info_dag.py', '--cfg-path', '/tmp/tmplv0n9irg']
+[2025-11-17T08:42:38.316+0000] {standard_task_runner.py:88} INFO - Job 76: Subtask load_pokemons
+[2025-11-17T08:42:38.338+0000] {task_command.py:423} INFO - Running <TaskInstance: load_pokemons_info_dag.load_pokemons scheduled__2025-11-15T06:00:00+00:00 [running]> on host 67ebf70470b5
+[2025-11-17T08:42:38.370+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='load_pokemons_info_dag' AIRFLOW_CTX_TASK_ID='load_pokemons' AIRFLOW_CTX_EXECUTION_DATE='2025-11-15T06:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-15T06:00:00+00:00'
+[2025-11-17T08:42:38.448+0000] {api_functions.py:223} INFO - pokemons successfully ingested into the database
+[2025-11-17T08:42:38.449+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-11-17T08:42:38.453+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=load_pokemons_info_dag, task_id=load_pokemons, execution_date=20251115T060000, start_date=20251117T084238, end_date=20251117T084238
+[2025-11-17T08:42:38.495+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0

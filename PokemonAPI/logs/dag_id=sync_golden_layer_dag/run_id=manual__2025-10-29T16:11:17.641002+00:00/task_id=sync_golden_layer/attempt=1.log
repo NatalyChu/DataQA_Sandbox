@@ -1,0 +1,25 @@
+[2025-10-29T16:11:19.479+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-10-29T16:11:17.641002+00:00 [queued]>
+[2025-10-29T16:11:19.483+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-10-29T16:11:17.641002+00:00 [queued]>
+[2025-10-29T16:11:19.483+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-10-29T16:11:19.488+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): sync_golden_layer> on 2025-10-29 16:11:17.641002+00:00
+[2025-10-29T16:11:19.490+0000] {standard_task_runner.py:60} INFO - Started process 730 to run task
+[2025-10-29T16:11:19.491+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'sync_golden_layer_dag', 'sync_golden_layer', 'manual__2025-10-29T16:11:17.641002+00:00', '--job-id', '43', '--raw', '--subdir', 'DAGS_FOLDER/sync_golden_layer_dag.py', '--cfg-path', '/tmp/tmpbu887r3r']
+[2025-10-29T16:11:19.492+0000] {standard_task_runner.py:88} INFO - Job 43: Subtask sync_golden_layer
+[2025-10-29T16:11:19.511+0000] {task_command.py:423} INFO - Running <TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-10-29T16:11:17.641002+00:00 [running]> on host 67ebf70470b5
+[2025-10-29T16:11:19.542+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='sync_golden_layer_dag' AIRFLOW_CTX_TASK_ID='sync_golden_layer' AIRFLOW_CTX_EXECUTION_DATE='2025-10-29T16:11:17.641002+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-29T16:11:17.641002+00:00'
+[2025-10-29T16:11:19.546+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-10-29T16:11:19.551+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_types_statistics();, parameters: None
+[2025-10-29T16:11:19.553+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-10-29T16:11:19.557+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-10-29T16:11:19.562+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_moves_statistics();, parameters: None
+[2025-10-29T16:11:19.573+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-10-29T16:11:19.577+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-10-29T16:11:19.582+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_stats_statistics();, parameters: None
+[2025-10-29T16:11:19.587+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-10-29T16:11:19.592+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-10-29T16:11:19.597+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_types_generations_statistics();, parameters: None
+[2025-10-29T16:11:19.600+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-10-29T16:11:19.600+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-10-29T16:11:19.604+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=sync_golden_layer_dag, task_id=sync_golden_layer, execution_date=20251029T161117, start_date=20251029T161119, end_date=20251029T161119
+[2025-10-29T16:11:19.629+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-10-29T16:11:19.637+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,50 @@
+[2025-04-01T15:56:33.295+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-04-01T15:56:30.890352+00:00 [queued]>
+[2025-04-01T15:56:33.318+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-04-01T15:56:30.890352+00:00 [queued]>
+[2025-04-01T15:56:33.318+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-04-01T15:56:33.333+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): sync_golden_layer> on 2025-04-01 15:56:30.890352+00:00
+[2025-04-01T15:56:33.342+0000] {standard_task_runner.py:60} INFO - Started process 79600 to run task
+[2025-04-01T15:56:33.348+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'sync_golden_layer_dag', 'sync_golden_layer', 'manual__2025-04-01T15:56:30.890352+00:00', '--job-id', '113', '--raw', '--subdir', 'DAGS_FOLDER/sync_golden_layer_dag.py', '--cfg-path', '/tmp/tmpp18oifm2']
+[2025-04-01T15:56:33.366+0000] {standard_task_runner.py:88} INFO - Job 113: Subtask sync_golden_layer
+[2025-04-01T15:56:33.507+0000] {task_command.py:423} INFO - Running <TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-04-01T15:56:30.890352+00:00 [running]> on host c082e54ac3bd
+[2025-04-01T15:56:33.628+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='sync_golden_layer_dag' AIRFLOW_CTX_TASK_ID='sync_golden_layer' AIRFLOW_CTX_EXECUTION_DATE='2025-04-01T15:56:30.890352+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-01T15:56:30.890352+00:00'
+[2025-04-01T15:56:33.641+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-04-01T15:56:33.691+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_types_statistics();, parameters: None
+[2025-04-01T15:56:33.713+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-04-01T15:56:33.726+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-04-01T15:56:33.743+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_moves_statistics();, parameters: None
+[2025-04-01T15:56:33.794+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-04-01T15:56:33.814+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-04-01T15:56:33.832+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_stats_statistics();, parameters: None
+[2025-04-01T15:56:33.852+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-04-01T15:56:33.867+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-04-01T15:56:33.889+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_types_generations_statistics();, parameters: None
+[2025-04-01T15:56:33.900+0000] {sql.py:459} INFO - Rows affected: 1
+[2025-04-01T15:56:33.916+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-04-01T15:56:33.941+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_types_generations_fff();, parameters: None
+[2025-04-01T15:56:33.944+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/sync_golden_layer_dag.py", line 19, in execute_sql_functions
+    hook.run(f"SELECT {sync_function}();")
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 398, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 455, in _run_command
+    cur.execute(sql_statement)
+psycopg2.errors.UndefinedFunction: function golden.refresh_types_generations_fff() does not exist
+LINE 1: SELECT golden.refresh_types_generations_fff();
+               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+[2025-04-01T15:56:33.955+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=sync_golden_layer_dag, task_id=sync_golden_layer, execution_date=20250401T155630, start_date=20250401T155633, end_date=20250401T155633
+[2025-04-01T15:56:33.966+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 113 for task sync_golden_layer (function golden.refresh_types_generations_fff() does not exist
+LINE 1: SELECT golden.refresh_types_generations_fff();
+               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+; 79600)
+[2025-04-01T15:56:33.990+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-04-01T15:56:34.009+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

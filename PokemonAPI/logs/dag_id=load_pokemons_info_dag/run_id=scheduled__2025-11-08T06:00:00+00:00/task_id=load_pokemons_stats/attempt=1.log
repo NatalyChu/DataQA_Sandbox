@@ -1,0 +1,13 @@
+[2025-11-09T17:36:20.243+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: load_pokemons_info_dag.load_pokemons_stats scheduled__2025-11-08T06:00:00+00:00 [queued]>
+[2025-11-09T17:36:20.246+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: load_pokemons_info_dag.load_pokemons_stats scheduled__2025-11-08T06:00:00+00:00 [queued]>
+[2025-11-09T17:36:20.246+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-11-09T17:36:20.251+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): load_pokemons_stats> on 2025-11-08 06:00:00+00:00
+[2025-11-09T17:36:20.253+0000] {standard_task_runner.py:60} INFO - Started process 53236 to run task
+[2025-11-09T17:36:20.255+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'load_pokemons_info_dag', 'load_pokemons_stats', 'scheduled__2025-11-08T06:00:00+00:00', '--job-id', '65', '--raw', '--subdir', 'DAGS_FOLDER/load_pokemons_info_dag.py', '--cfg-path', '/tmp/tmpr70fzmsa']
+[2025-11-09T17:36:20.256+0000] {standard_task_runner.py:88} INFO - Job 65: Subtask load_pokemons_stats
+[2025-11-09T17:36:20.278+0000] {task_command.py:423} INFO - Running <TaskInstance: load_pokemons_info_dag.load_pokemons_stats scheduled__2025-11-08T06:00:00+00:00 [running]> on host 67ebf70470b5
+[2025-11-09T17:36:20.314+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='load_pokemons_info_dag' AIRFLOW_CTX_TASK_ID='load_pokemons_stats' AIRFLOW_CTX_EXECUTION_DATE='2025-11-08T06:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-08T06:00:00+00:00'
+[2025-11-09T17:36:20.455+0000] {api_functions.py:223} INFO - pokemon_stats successfully ingested into the database
+[2025-11-09T17:36:20.455+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-11-09T17:36:20.461+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=load_pokemons_info_dag, task_id=load_pokemons_stats, execution_date=20251108T060000, start_date=20251109T173620, end_date=20251109T173620
+[2025-11-09T17:36:20.477+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0

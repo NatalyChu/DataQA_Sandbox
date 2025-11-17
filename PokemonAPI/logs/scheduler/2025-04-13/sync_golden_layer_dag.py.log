@@ -1,0 +1,679 @@
+[2025-04-13T00:24:26.548+0000] {processor.py:161} INFO - Started process (PID=82980) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:24:26.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T00:24:26.570+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:24:26.569+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:24:26.685+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:24:26.931+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:24:26.930+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T00:24:26.979+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:24:26.979+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T00:24:27.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.467 seconds
+[2025-04-13T00:50:27.672+0000] {processor.py:161} INFO - Started process (PID=83003) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:50:27.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T00:50:27.688+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:50:27.688+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:50:27.744+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:50:27.903+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:50:27.902+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T00:50:27.919+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:50:27.919+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T00:50:27.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.298 seconds
+[2025-04-13T00:50:58.805+0000] {processor.py:161} INFO - Started process (PID=83026) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:50:58.811+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T00:50:58.813+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:50:58.812+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:50:58.909+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T00:50:59.102+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:50:59.102+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T00:50:59.140+0000] {logging_mixin.py:188} INFO - [2025-04-13T00:50:59.139+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T00:50:59.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.375 seconds
+[2025-04-13T01:14:50.125+0000] {processor.py:161} INFO - Started process (PID=83049) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:14:50.130+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T01:14:50.147+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:14:50.146+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:14:50.312+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:14:50.990+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:14:50.989+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T01:14:51.077+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:14:51.076+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T01:14:51.150+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.076 seconds
+[2025-04-13T01:20:20.071+0000] {processor.py:161} INFO - Started process (PID=83072) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:20:20.082+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T01:20:20.093+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:20:20.092+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:20:20.157+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:20:20.280+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:20:20.280+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T01:20:20.303+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:20:20.303+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T01:20:20.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.275 seconds
+[2025-04-13T01:20:51.192+0000] {processor.py:161} INFO - Started process (PID=83095) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:20:51.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T01:20:51.204+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:20:51.198+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:20:51.277+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:20:51.550+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:20:51.549+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T01:20:51.633+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:20:51.631+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T01:20:51.706+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.532 seconds
+[2025-04-13T01:51:17.847+0000] {processor.py:161} INFO - Started process (PID=83120) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:51:17.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T01:51:17.853+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:51:17.852+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:51:17.890+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:51:18.205+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:51:18.204+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T01:51:18.245+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:51:18.245+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T01:51:18.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.454 seconds
+[2025-04-13T01:51:48.524+0000] {processor.py:161} INFO - Started process (PID=83143) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:51:48.526+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T01:51:48.529+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:51:48.527+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:51:48.569+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:51:48.699+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:51:48.699+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T01:51:48.716+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:51:48.716+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T01:51:48.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.216 seconds
+[2025-04-13T01:52:18.827+0000] {processor.py:161} INFO - Started process (PID=83166) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:52:18.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T01:52:18.834+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:52:18.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:52:18.873+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T01:52:18.996+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:52:18.996+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T01:52:19.022+0000] {logging_mixin.py:188} INFO - [2025-04-13T01:52:19.022+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T01:52:19.036+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.213 seconds
+[2025-04-13T02:08:02.180+0000] {processor.py:161} INFO - Started process (PID=83189) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T02:08:02.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T02:08:02.226+0000] {logging_mixin.py:188} INFO - [2025-04-13T02:08:02.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T02:08:02.405+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T02:08:02.860+0000] {logging_mixin.py:188} INFO - [2025-04-13T02:08:02.860+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T02:08:02.902+0000] {logging_mixin.py:188} INFO - [2025-04-13T02:08:02.902+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T02:08:02.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.789 seconds
+[2025-04-13T02:39:35.475+0000] {processor.py:161} INFO - Started process (PID=83212) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T02:39:35.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T02:39:35.478+0000] {logging_mixin.py:188} INFO - [2025-04-13T02:39:35.477+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T02:39:35.565+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T02:39:35.817+0000] {logging_mixin.py:188} INFO - [2025-04-13T02:39:35.813+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T02:39:35.914+0000] {logging_mixin.py:188} INFO - [2025-04-13T02:39:35.913+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T02:39:35.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.526 seconds
+[2025-04-13T03:12:58.719+0000] {processor.py:161} INFO - Started process (PID=83236) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:12:58.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T03:12:58.722+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:12:58.721+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:12:58.780+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:12:58.999+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:12:58.998+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T03:12:59.085+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:12:59.084+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T03:12:59.142+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.433 seconds
+[2025-04-13T03:21:38.467+0000] {processor.py:161} INFO - Started process (PID=83260) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:21:38.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T03:21:38.485+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:21:38.484+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:21:38.633+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:21:38.869+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:21:38.868+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T03:21:38.894+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:21:38.894+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T03:21:38.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.459 seconds
+[2025-04-13T03:37:12.318+0000] {processor.py:161} INFO - Started process (PID=83283) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:37:12.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T03:37:12.328+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:37:12.327+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:37:12.416+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:37:12.676+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:37:12.676+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T03:37:12.779+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:37:12.778+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T03:37:12.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.589 seconds
+[2025-04-13T03:53:29.439+0000] {processor.py:161} INFO - Started process (PID=83308) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:53:29.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T03:53:29.472+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:53:29.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:53:29.628+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T03:53:29.880+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:53:29.879+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T03:53:29.908+0000] {logging_mixin.py:188} INFO - [2025-04-13T03:53:29.908+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T03:53:29.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.569 seconds
+[2025-04-13T04:25:40.050+0000] {processor.py:161} INFO - Started process (PID=83331) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:25:40.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T04:25:40.058+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:25:40.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:25:40.159+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:25:40.461+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:25:40.461+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T04:25:40.481+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:25:40.481+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T04:25:40.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.481 seconds
+[2025-04-13T04:40:28.285+0000] {processor.py:161} INFO - Started process (PID=83354) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:40:28.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T04:40:28.298+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:40:28.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:40:28.422+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:40:28.698+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:40:28.698+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T04:40:28.754+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:40:28.754+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T04:40:28.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.549 seconds
+[2025-04-13T04:57:03.018+0000] {processor.py:161} INFO - Started process (PID=83379) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:57:03.020+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T04:57:03.021+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:57:03.021+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:57:03.082+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T04:57:03.324+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:57:03.324+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T04:57:03.374+0000] {logging_mixin.py:188} INFO - [2025-04-13T04:57:03.373+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T04:57:03.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.448 seconds
+[2025-04-13T05:00:15.184+0000] {processor.py:161} INFO - Started process (PID=83402) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:00:15.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T05:00:15.237+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:00:15.236+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:00:15.526+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:00:15.889+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:00:15.889+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T05:00:15.917+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:00:15.917+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T05:00:15.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.928 seconds
+[2025-04-13T05:00:46.608+0000] {processor.py:161} INFO - Started process (PID=83425) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:00:46.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T05:00:46.615+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:00:46.614+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:00:46.671+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:00:46.842+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:00:46.842+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T05:00:46.874+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:00:46.874+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T05:00:46.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.302 seconds
+[2025-04-13T05:34:32.574+0000] {processor.py:161} INFO - Started process (PID=83450) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:34:32.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T05:34:32.610+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:34:32.595+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:34:32.728+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:34:33.065+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:34:33.065+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T05:34:33.147+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:34:33.147+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T05:34:33.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.636 seconds
+[2025-04-13T05:51:24.977+0000] {processor.py:161} INFO - Started process (PID=83473) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:51:25.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T05:51:25.017+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:51:25.016+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:51:25.145+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T05:51:25.485+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:51:25.485+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T05:51:25.499+0000] {logging_mixin.py:188} INFO - [2025-04-13T05:51:25.499+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-13 06:00:00+00:00, run_after=2025-04-14 06:00:00+00:00
+[2025-04-13T05:51:25.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.582 seconds
+[2025-04-13T06:08:51.114+0000] {processor.py:161} INFO - Started process (PID=83496) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:08:51.120+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T06:08:51.122+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:08:51.122+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:08:51.309+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:08:51.695+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:08:51.693+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T06:08:51.716+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:08:51.714+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T06:08:51.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.640 seconds
+[2025-04-13T06:25:10.894+0000] {processor.py:161} INFO - Started process (PID=83520) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:25:10.896+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T06:25:10.913+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:25:10.905+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:25:11.034+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:25:11.327+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:25:11.326+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T06:25:11.365+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:25:11.365+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T06:25:11.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.600 seconds
+[2025-04-13T06:41:22.201+0000] {processor.py:161} INFO - Started process (PID=83537) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:41:22.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T06:41:22.208+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:41:22.207+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:41:22.267+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:41:22.699+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:41:22.699+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T06:41:22.845+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:41:22.845+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T06:41:22.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.772 seconds
+[2025-04-13T06:41:53.111+0000] {processor.py:161} INFO - Started process (PID=83560) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:41:53.113+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T06:41:53.114+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:41:53.114+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:41:53.174+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T06:41:53.332+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:41:53.331+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T06:41:53.348+0000] {logging_mixin.py:188} INFO - [2025-04-13T06:41:53.348+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T06:41:53.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.272 seconds
+[2025-04-13T07:12:29.406+0000] {processor.py:161} INFO - Started process (PID=83584) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:12:29.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T07:12:29.446+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:12:29.445+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:12:29.643+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:12:29.918+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:12:29.918+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T07:12:29.964+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:12:29.964+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T07:12:30.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.784 seconds
+[2025-04-13T07:34:24.446+0000] {processor.py:161} INFO - Started process (PID=83609) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:34:24.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T07:34:24.453+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:34:24.453+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:34:24.520+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:34:24.734+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:34:24.734+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T07:34:24.849+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:34:24.849+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T07:34:24.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.469 seconds
+[2025-04-13T07:34:55.890+0000] {processor.py:161} INFO - Started process (PID=83631) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:34:55.892+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T07:34:55.894+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:34:55.894+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:34:55.953+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:34:56.089+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:34:56.089+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T07:34:56.107+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:34:56.107+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T07:34:56.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.245 seconds
+[2025-04-13T07:42:29.298+0000] {processor.py:161} INFO - Started process (PID=83653) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:42:29.311+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T07:42:29.314+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:42:29.313+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:42:29.448+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T07:42:29.698+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:42:29.698+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T07:42:29.727+0000] {logging_mixin.py:188} INFO - [2025-04-13T07:42:29.727+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T07:42:29.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.494 seconds
+[2025-04-13T08:00:12.734+0000] {processor.py:161} INFO - Started process (PID=83678) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:00:12.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:00:12.755+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:00:12.751+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:00:12.853+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:00:13.434+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:00:13.434+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:00:13.471+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:00:13.471+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:00:13.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.790 seconds
+[2025-04-13T08:17:23.131+0000] {processor.py:161} INFO - Started process (PID=83701) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:17:23.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:17:23.137+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:17:23.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:17:23.195+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:17:23.604+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:17:23.603+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:17:23.670+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:17:23.669+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:17:23.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.646 seconds
+[2025-04-13T08:35:00.666+0000] {processor.py:161} INFO - Started process (PID=83724) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:35:00.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:35:00.703+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:35:00.698+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:35:00.826+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:35:01.293+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:35:01.293+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:35:01.332+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:35:01.332+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:35:01.381+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.786 seconds
+[2025-04-13T08:41:02.258+0000] {processor.py:161} INFO - Started process (PID=83749) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:41:02.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:41:02.283+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:41:02.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:41:02.397+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:41:02.923+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:41:02.922+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:41:02.962+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:41:02.962+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:41:03.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.774 seconds
+[2025-04-13T08:43:12.301+0000] {processor.py:161} INFO - Started process (PID=83772) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:43:12.310+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:43:12.313+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:43:12.313+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:43:12.428+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:43:12.913+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:43:12.913+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:43:12.986+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:43:12.981+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:43:13.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.757 seconds
+[2025-04-13T08:43:58.581+0000] {processor.py:161} INFO - Started process (PID=83795) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:43:58.584+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:43:58.586+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:43:58.585+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:43:58.624+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:43:58.803+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:43:58.803+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:43:58.828+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:43:58.828+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:43:58.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.274 seconds
+[2025-04-13T08:44:28.902+0000] {processor.py:161} INFO - Started process (PID=83818) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:44:28.904+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T08:44:28.905+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:44:28.905+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:44:28.941+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T08:44:29.079+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:44:29.079+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T08:44:29.098+0000] {logging_mixin.py:188} INFO - [2025-04-13T08:44:29.097+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T08:44:29.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.215 seconds
+[2025-04-13T09:14:39.493+0000] {processor.py:161} INFO - Started process (PID=83841) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:14:39.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T09:14:39.509+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:14:39.505+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:14:39.649+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:14:40.099+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:14:40.098+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T09:14:40.126+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:14:40.126+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T09:14:40.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.710 seconds
+[2025-04-13T09:15:11.150+0000] {processor.py:161} INFO - Started process (PID=83865) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:15:11.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T09:15:11.168+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:15:11.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:15:11.219+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:15:11.409+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:15:11.408+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T09:15:11.438+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:15:11.438+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T09:15:11.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.333 seconds
+[2025-04-13T09:15:42.466+0000] {processor.py:161} INFO - Started process (PID=83888) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:15:42.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T09:15:42.474+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:15:42.474+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:15:42.525+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:15:42.762+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:15:42.759+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T09:15:42.789+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:15:42.789+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T09:15:42.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.360 seconds
+[2025-04-13T09:20:13.980+0000] {processor.py:161} INFO - Started process (PID=83912) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:20:14.026+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T09:20:14.036+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:20:14.034+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:20:14.193+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:20:14.755+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:20:14.755+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T09:20:14.777+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:20:14.777+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T09:20:14.800+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.859 seconds
+[2025-04-13T09:53:30.439+0000] {processor.py:161} INFO - Started process (PID=83936) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:53:30.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T09:53:30.449+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:53:30.446+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:53:30.503+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T09:53:30.671+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:53:30.671+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T09:53:30.708+0000] {logging_mixin.py:188} INFO - [2025-04-13T09:53:30.708+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T09:53:30.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.312 seconds
+[2025-04-13T10:27:57.301+0000] {processor.py:161} INFO - Started process (PID=83959) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T10:27:57.311+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T10:27:57.330+0000] {logging_mixin.py:188} INFO - [2025-04-13T10:27:57.326+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T10:27:57.569+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T10:27:58.776+0000] {logging_mixin.py:188} INFO - [2025-04-13T10:27:58.771+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T10:27:58.854+0000] {logging_mixin.py:188} INFO - [2025-04-13T10:27:58.854+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T10:27:58.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.665 seconds
+[2025-04-13T11:03:46.045+0000] {processor.py:161} INFO - Started process (PID=83984) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:03:46.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T11:03:46.072+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:03:46.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:03:46.248+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:03:46.765+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:03:46.764+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T11:03:46.788+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:03:46.788+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T11:03:46.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.837 seconds
+[2025-04-13T11:19:26.865+0000] {processor.py:161} INFO - Started process (PID=84007) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:19:26.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T11:19:26.878+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:19:26.878+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:19:27.036+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:19:28.337+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:19:28.312+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T11:19:28.588+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:19:28.588+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T11:19:28.735+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.898 seconds
+[2025-04-13T11:34:27.309+0000] {processor.py:161} INFO - Started process (PID=84030) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:34:27.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T11:34:27.321+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:34:27.318+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:34:27.361+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:34:27.522+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:34:27.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T11:34:27.587+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:34:27.586+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T11:34:27.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.334 seconds
+[2025-04-13T11:34:58.209+0000] {processor.py:161} INFO - Started process (PID=84053) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:34:58.218+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T11:34:58.220+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:34:58.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:34:58.272+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T11:34:58.469+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:34:58.469+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T11:34:58.500+0000] {logging_mixin.py:188} INFO - [2025-04-13T11:34:58.500+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T11:34:58.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.323 seconds
+[2025-04-13T12:04:47.077+0000] {processor.py:161} INFO - Started process (PID=84078) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:04:47.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T12:04:47.103+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:04:47.102+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:04:47.202+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:04:47.750+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:04:47.749+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T12:04:47.845+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:04:47.833+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T12:04:47.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.891 seconds
+[2025-04-13T12:21:36.013+0000] {processor.py:161} INFO - Started process (PID=84101) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:21:36.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T12:21:36.023+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:21:36.018+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:21:36.077+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:21:36.317+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:21:36.317+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T12:21:36.361+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:21:36.360+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T12:21:36.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.406 seconds
+[2025-04-13T12:37:25.066+0000] {processor.py:161} INFO - Started process (PID=84124) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:37:25.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T12:37:25.072+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:37:25.072+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:37:25.126+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:37:25.593+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:37:25.591+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T12:37:25.735+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:37:25.733+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T12:37:25.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.854 seconds
+[2025-04-13T12:54:50.791+0000] {processor.py:161} INFO - Started process (PID=84147) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:54:50.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T12:54:50.801+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:54:50.801+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:54:50.869+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T12:54:51.139+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:54:51.139+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T12:54:51.172+0000] {logging_mixin.py:188} INFO - [2025-04-13T12:54:51.171+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T12:54:51.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.411 seconds
+[2025-04-13T13:05:55.356+0000] {processor.py:161} INFO - Started process (PID=84171) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:05:55.358+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T13:05:55.361+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:05:55.359+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:05:55.460+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:05:56.014+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:05:56.013+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T13:05:56.111+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:05:56.111+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T13:05:56.209+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.873 seconds
+[2025-04-13T13:28:30.553+0000] {processor.py:161} INFO - Started process (PID=84195) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:28:30.570+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T13:28:30.580+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:28:30.579+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:28:30.787+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:28:31.118+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:28:31.118+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T13:28:31.143+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:28:31.143+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T13:28:31.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.684 seconds
+[2025-04-13T13:29:02.192+0000] {processor.py:161} INFO - Started process (PID=84218) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:29:02.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T13:29:02.207+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:29:02.206+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:29:02.258+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T13:29:02.474+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:29:02.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T13:29:02.515+0000] {logging_mixin.py:188} INFO - [2025-04-13T13:29:02.514+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T13:29:02.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.366 seconds
+[2025-04-13T14:02:47.465+0000] {processor.py:161} INFO - Started process (PID=84243) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:02:47.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T14:02:47.478+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:02:47.475+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:02:47.561+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:02:48.203+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:02:48.202+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T14:02:48.277+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:02:48.272+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T14:02:48.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.891 seconds
+[2025-04-13T14:06:50.550+0000] {processor.py:161} INFO - Started process (PID=84266) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:06:50.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T14:06:50.559+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:06:50.558+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:06:50.627+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:06:50.823+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:06:50.823+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T14:06:50.900+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:06:50.900+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T14:06:51.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.483 seconds
+[2025-04-13T14:23:40.860+0000] {processor.py:161} INFO - Started process (PID=84289) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:23:40.866+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T14:23:40.873+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:23:40.873+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:23:41.005+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:23:41.409+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:23:41.408+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T14:23:41.452+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:23:41.452+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T14:23:41.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.650 seconds
+[2025-04-13T14:41:03.174+0000] {processor.py:161} INFO - Started process (PID=84314) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:41:03.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T14:41:03.250+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:41:03.248+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:41:03.705+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T14:41:04.133+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:41:04.132+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T14:41:04.155+0000] {logging_mixin.py:188} INFO - [2025-04-13T14:41:04.155+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T14:41:04.189+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.107 seconds
+[2025-04-13T15:02:12.354+0000] {processor.py:161} INFO - Started process (PID=84337) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:02:12.357+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:02:12.359+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:02:12.359+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:02:12.396+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:02:12.562+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:02:12.562+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:02:12.589+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:02:12.589+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:02:12.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.263 seconds
+[2025-04-13T15:07:33.963+0000] {processor.py:161} INFO - Started process (PID=84360) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:07:33.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:07:33.990+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:07:33.990+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:07:34.027+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:07:34.202+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:07:34.202+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:07:34.228+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:07:34.228+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:07:34.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.334 seconds
+[2025-04-13T15:08:05.263+0000] {processor.py:161} INFO - Started process (PID=84383) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:08:05.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:08:05.270+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:08:05.268+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:08:05.325+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:08:05.539+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:08:05.538+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:08:05.570+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:08:05.570+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:08:05.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.350 seconds
+[2025-04-13T15:09:49.855+0000] {processor.py:161} INFO - Started process (PID=84406) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:09:49.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:09:49.864+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:09:49.863+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:09:49.913+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:09:50.090+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:09:50.090+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:09:50.124+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:09:50.123+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:09:50.151+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.309 seconds
+[2025-04-13T15:11:30.858+0000] {processor.py:161} INFO - Started process (PID=84429) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:11:30.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:11:30.866+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:11:30.864+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:11:30.893+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:11:30.993+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:11:30.993+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:11:31.017+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:11:31.016+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:11:31.035+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.183 seconds
+[2025-04-13T15:20:45.358+0000] {processor.py:161} INFO - Started process (PID=84454) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:20:45.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:20:45.376+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:20:45.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:20:45.581+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:20:46.081+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:20:46.081+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:20:46.169+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:20:46.169+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:20:46.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.063 seconds
+[2025-04-13T15:21:17.301+0000] {processor.py:161} INFO - Started process (PID=84477) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:21:17.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:21:17.308+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:21:17.307+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:21:17.374+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:21:17.563+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:21:17.563+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:21:17.602+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:21:17.602+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:21:17.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.361 seconds
+[2025-04-13T15:33:53.122+0000] {processor.py:161} INFO - Started process (PID=84500) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:33:53.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T15:33:53.129+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:33:53.127+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:33:53.182+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T15:33:53.359+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:33:53.359+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T15:33:53.406+0000] {logging_mixin.py:188} INFO - [2025-04-13T15:33:53.405+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T15:33:53.442+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.330 seconds
+[2025-04-13T16:07:32.788+0000] {processor.py:161} INFO - Started process (PID=84525) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:07:32.795+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T16:07:32.803+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:07:32.802+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:07:32.877+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:07:33.366+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:07:33.366+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T16:07:33.445+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:07:33.441+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T16:07:33.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.732 seconds
+[2025-04-13T16:48:29.707+0000] {processor.py:161} INFO - Started process (PID=84548) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:48:29.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T16:48:29.730+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:48:29.728+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:48:29.831+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:48:30.442+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:48:30.442+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T16:48:30.487+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:48:30.486+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T16:48:30.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.839 seconds
+[2025-04-13T16:49:00.648+0000] {processor.py:161} INFO - Started process (PID=84571) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:49:00.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T16:49:00.657+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:49:00.656+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:49:00.701+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T16:49:00.845+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:49:00.845+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T16:49:00.866+0000] {logging_mixin.py:188} INFO - [2025-04-13T16:49:00.866+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T16:49:00.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.239 seconds
+[2025-04-13T17:14:40.505+0000] {processor.py:161} INFO - Started process (PID=84595) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:14:40.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T17:14:40.513+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:14:40.512+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:14:40.579+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:14:40.839+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:14:40.838+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T17:14:40.880+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:14:40.880+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T17:14:40.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.426 seconds
+[2025-04-13T17:15:11.461+0000] {processor.py:161} INFO - Started process (PID=84618) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:15:11.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T17:15:11.465+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:15:11.464+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:15:11.498+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:15:11.634+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:15:11.634+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T17:15:11.661+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:15:11.661+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T17:15:11.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.223 seconds
+[2025-04-13T17:20:48.252+0000] {processor.py:161} INFO - Started process (PID=84641) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:20:48.262+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T17:20:48.266+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:20:48.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:20:48.576+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:20:48.911+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:20:48.910+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T17:20:48.978+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:20:48.978+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T17:20:49.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.801 seconds
+[2025-04-13T17:38:54.652+0000] {processor.py:161} INFO - Started process (PID=84664) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:38:54.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T17:38:54.671+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:38:54.671+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:38:54.829+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T17:38:55.348+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:38:55.347+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T17:38:55.383+0000] {logging_mixin.py:188} INFO - [2025-04-13T17:38:55.382+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T17:38:55.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.790 seconds
+[2025-04-13T18:24:37.347+0000] {processor.py:161} INFO - Started process (PID=84687) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T18:24:37.350+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T18:24:37.352+0000] {logging_mixin.py:188} INFO - [2025-04-13T18:24:37.351+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T18:24:37.406+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T18:24:37.566+0000] {logging_mixin.py:188} INFO - [2025-04-13T18:24:37.565+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T18:24:37.583+0000] {logging_mixin.py:188} INFO - [2025-04-13T18:24:37.583+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T18:24:37.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.260 seconds
+[2025-04-13T18:25:08.602+0000] {processor.py:161} INFO - Started process (PID=84710) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T18:25:08.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T18:25:08.617+0000] {logging_mixin.py:188} INFO - [2025-04-13T18:25:08.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T18:25:08.681+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T18:25:08.848+0000] {logging_mixin.py:188} INFO - [2025-04-13T18:25:08.847+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T18:25:08.875+0000] {logging_mixin.py:188} INFO - [2025-04-13T18:25:08.874+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T18:25:08.907+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.328 seconds
+[2025-04-13T19:15:53.663+0000] {processor.py:161} INFO - Started process (PID=84732) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:15:53.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T19:15:53.668+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:15:53.667+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:15:53.747+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:15:54.120+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:15:54.120+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T19:15:54.351+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:15:54.351+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T19:15:54.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.279 seconds
+[2025-04-13T19:25:49.332+0000] {processor.py:161} INFO - Started process (PID=84755) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:25:49.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T19:25:49.347+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:25:49.344+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:25:49.641+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:25:50.217+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:25:50.216+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T19:25:50.276+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:25:50.276+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T19:25:50.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.085 seconds
+[2025-04-13T19:26:21.174+0000] {processor.py:161} INFO - Started process (PID=84778) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:26:21.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T19:26:21.189+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:26:21.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:26:21.269+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:26:21.499+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:26:21.499+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T19:26:21.567+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:26:21.566+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T19:26:21.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.457 seconds
+[2025-04-13T19:47:16.567+0000] {processor.py:161} INFO - Started process (PID=84803) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:47:16.569+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T19:47:16.574+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:47:16.573+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:47:16.638+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:47:16.835+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:47:16.835+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T19:47:16.878+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:47:16.878+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T19:47:16.904+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.360 seconds
+[2025-04-13T19:47:47.096+0000] {processor.py:161} INFO - Started process (PID=84826) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:47:47.098+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T19:47:47.099+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:47:47.099+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:47:47.149+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T19:47:47.274+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:47:47.274+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T19:47:47.301+0000] {logging_mixin.py:188} INFO - [2025-04-13T19:47:47.301+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T19:47:47.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.231 seconds
+[2025-04-13T20:20:43.046+0000] {processor.py:161} INFO - Started process (PID=84849) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T20:20:43.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T20:20:43.063+0000] {logging_mixin.py:188} INFO - [2025-04-13T20:20:43.063+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T20:20:43.154+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T20:20:43.308+0000] {logging_mixin.py:188} INFO - [2025-04-13T20:20:43.307+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T20:20:43.326+0000] {logging_mixin.py:188} INFO - [2025-04-13T20:20:43.326+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T20:20:43.342+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.318 seconds
+[2025-04-13T20:26:53.911+0000] {processor.py:161} INFO - Started process (PID=84874) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T20:26:53.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T20:26:53.916+0000] {logging_mixin.py:188} INFO - [2025-04-13T20:26:53.916+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T20:26:53.974+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T20:26:54.102+0000] {logging_mixin.py:188} INFO - [2025-04-13T20:26:54.102+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T20:26:54.128+0000] {logging_mixin.py:188} INFO - [2025-04-13T20:26:54.128+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T20:26:54.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.252 seconds
+[2025-04-13T21:01:18.502+0000] {processor.py:161} INFO - Started process (PID=84897) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:01:18.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T21:01:18.507+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:01:18.506+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:01:18.564+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:01:18.748+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:01:18.748+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T21:01:18.782+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:01:18.782+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T21:01:18.801+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.316 seconds
+[2025-04-13T21:01:49.168+0000] {processor.py:161} INFO - Started process (PID=84920) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:01:49.170+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T21:01:49.171+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:01:49.171+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:01:49.217+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:01:49.364+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:01:49.364+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T21:01:49.390+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:01:49.390+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T21:01:49.405+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.256 seconds
+[2025-04-13T21:02:20.457+0000] {processor.py:161} INFO - Started process (PID=84943) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:02:20.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T21:02:20.461+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:02:20.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:02:20.506+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:02:20.634+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:02:20.633+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T21:02:20.651+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:02:20.651+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T21:02:20.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.224 seconds
+[2025-04-13T21:27:36.964+0000] {processor.py:161} INFO - Started process (PID=84966) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:27:36.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T21:27:36.970+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:27:36.970+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:27:37.014+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:27:37.714+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:27:37.711+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T21:27:37.948+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:27:37.948+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T21:27:38.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 1.186 seconds
+[2025-04-13T21:28:08.888+0000] {processor.py:161} INFO - Started process (PID=84990) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:28:08.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T21:28:08.896+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:28:08.895+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:28:08.936+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T21:28:09.119+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:28:09.118+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T21:28:09.145+0000] {logging_mixin.py:188} INFO - [2025-04-13T21:28:09.142+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T21:28:09.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.303 seconds
+[2025-04-13T22:02:13.641+0000] {processor.py:161} INFO - Started process (PID=85015) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:02:13.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:02:13.647+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:02:13.647+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:02:13.670+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:02:13.793+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:02:13.793+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:02:13.814+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:02:13.814+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:02:13.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.211 seconds
+[2025-04-13T22:02:44.846+0000] {processor.py:161} INFO - Started process (PID=85038) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:02:44.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:02:44.854+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:02:44.853+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:02:44.917+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:02:45.114+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:02:45.114+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:02:45.148+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:02:45.148+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:02:45.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.345 seconds
+[2025-04-13T22:22:03.260+0000] {processor.py:161} INFO - Started process (PID=85061) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:22:03.263+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:22:03.264+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:22:03.264+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:22:03.294+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:22:03.443+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:22:03.443+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:22:03.466+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:22:03.466+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:22:03.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.229 seconds
+[2025-04-13T22:22:34.348+0000] {processor.py:161} INFO - Started process (PID=85084) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:22:34.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:22:34.353+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:22:34.353+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:22:34.422+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:22:34.618+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:22:34.617+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:22:34.653+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:22:34.653+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:22:34.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.349 seconds
+[2025-04-13T22:28:44.037+0000] {processor.py:161} INFO - Started process (PID=85109) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:28:44.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:28:44.042+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:28:44.042+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:28:44.082+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:28:44.255+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:28:44.255+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:28:44.288+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:28:44.288+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:28:44.320+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.298 seconds
+[2025-04-13T22:40:07.485+0000] {processor.py:161} INFO - Started process (PID=85132) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:40:07.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:40:07.509+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:40:07.508+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:40:07.635+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:40:07.823+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:40:07.823+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:40:07.857+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:40:07.857+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:40:07.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.427 seconds
+[2025-04-13T22:40:38.749+0000] {processor.py:161} INFO - Started process (PID=85155) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:40:38.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T22:40:38.753+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:40:38.753+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:40:38.826+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T22:40:39.038+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:40:39.038+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T22:40:39.076+0000] {logging_mixin.py:188} INFO - [2025-04-13T22:40:39.076+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T22:40:39.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.396 seconds
+[2025-04-13T23:28:02.538+0000] {processor.py:161} INFO - Started process (PID=85180) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:28:02.565+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T23:28:02.585+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:28:02.584+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:28:02.712+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:28:02.865+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:28:02.865+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T23:28:02.886+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:28:02.885+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T23:28:02.905+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.403 seconds
+[2025-04-13T23:33:23.108+0000] {processor.py:161} INFO - Started process (PID=85203) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:33:23.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T23:33:23.113+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:33:23.113+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:33:23.152+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:33:23.362+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:33:23.362+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T23:33:23.396+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:33:23.396+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T23:33:23.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.332 seconds
+[2025-04-13T23:33:53.551+0000] {processor.py:161} INFO - Started process (PID=85226) to work on /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:33:53.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sync_golden_layer_dag.py for tasks to queue
+[2025-04-13T23:33:53.555+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:33:53.554+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:33:53.592+0000] {processor.py:840} INFO - DAG(s) 'sync_golden_layer_dag' retrieved from /opt/airflow/dags/sync_golden_layer_dag.py
+[2025-04-13T23:33:53.697+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:33:53.697+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-04-13T23:33:53.711+0000] {logging_mixin.py:188} INFO - [2025-04-13T23:33:53.711+0000] {dag.py:3823} INFO - Setting next_dagrun for sync_golden_layer_dag to 2025-04-14 06:00:00+00:00, run_after=2025-04-15 06:00:00+00:00
+[2025-04-13T23:33:53.728+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sync_golden_layer_dag.py took 0.184 seconds

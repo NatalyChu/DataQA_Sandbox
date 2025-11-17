@@ -1,0 +1,14 @@
+[2025-03-12T16:32:38.537+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dump_pokemons_info_dag.trigger_load_pokemons_info_dag manual__2025-03-12T16:23:19.917031+00:00 [queued]>
+[2025-03-12T16:32:38.541+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dump_pokemons_info_dag.trigger_load_pokemons_info_dag manual__2025-03-12T16:23:19.917031+00:00 [queued]>
+[2025-03-12T16:32:38.542+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-03-12T16:32:38.551+0000] {taskinstance.py:2191} INFO - Executing <Task(TriggerDagRunOperator): trigger_load_pokemons_info_dag> on 2025-03-12 16:23:19.917031+00:00
+[2025-03-12T16:32:38.555+0000] {standard_task_runner.py:60} INFO - Started process 56430 to run task
+[2025-03-12T16:32:38.558+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'dump_pokemons_info_dag', 'trigger_load_pokemons_info_dag', 'manual__2025-03-12T16:23:19.917031+00:00', '--job-id', '55', '--raw', '--subdir', 'DAGS_FOLDER/dump_pokemons_info_dag.py', '--cfg-path', '/tmp/tmpdl21pbc2']
+[2025-03-12T16:32:38.559+0000] {standard_task_runner.py:88} INFO - Job 55: Subtask trigger_load_pokemons_info_dag
+[2025-03-12T16:32:38.606+0000] {task_command.py:423} INFO - Running <TaskInstance: dump_pokemons_info_dag.trigger_load_pokemons_info_dag manual__2025-03-12T16:23:19.917031+00:00 [running]> on host 6ddfe969f968
+[2025-03-12T16:32:38.675+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='dump_pokemons_info_dag' AIRFLOW_CTX_TASK_ID='trigger_load_pokemons_info_dag' AIRFLOW_CTX_EXECUTION_DATE='2025-03-12T16:23:19.917031+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-12T16:23:19.917031+00:00'
+[2025-03-12T16:32:39.129+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.8/site-packages/***/providers/google/cloud/links/dataproc.py:79 AirflowProviderDeprecationWarning: This DataprocLink is deprecated.
+[2025-03-12T16:32:39.130+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.8/site-packages/***/providers/google/cloud/links/dataproc.py:128 AirflowProviderDeprecationWarning: This DataprocListLink is deprecated.
+[2025-03-12T16:32:39.671+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=dump_pokemons_info_dag, task_id=trigger_load_pokemons_info_dag, execution_date=20250312T162319, start_date=20250312T163238, end_date=20250312T163239
+[2025-03-12T16:32:39.690+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-03-12T16:32:39.703+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

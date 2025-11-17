@@ -1,0 +1,54 @@
+[2025-04-01T16:01:00.915+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-04-01T16:00:58.940207+00:00 [queued]>
+[2025-04-01T16:01:00.932+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-04-01T16:00:58.940207+00:00 [queued]>
+[2025-04-01T16:01:00.932+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-04-01T16:01:00.949+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): sync_golden_layer> on 2025-04-01 16:00:58.940207+00:00
+[2025-04-01T16:01:00.968+0000] {standard_task_runner.py:60} INFO - Started process 79837 to run task
+[2025-04-01T16:01:00.978+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'sync_golden_layer_dag', 'sync_golden_layer', 'manual__2025-04-01T16:00:58.940207+00:00', '--job-id', '126', '--raw', '--subdir', 'DAGS_FOLDER/sync_golden_layer_dag.py', '--cfg-path', '/tmp/tmpc8hgpp_x']
+[2025-04-01T16:01:00.987+0000] {standard_task_runner.py:88} INFO - Job 126: Subtask sync_golden_layer
+[2025-04-01T16:01:01.101+0000] {task_command.py:423} INFO - Running <TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-04-01T16:00:58.940207+00:00 [running]> on host c082e54ac3bd
+[2025-04-01T16:01:01.217+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='sync_golden_layer_dag' AIRFLOW_CTX_TASK_ID='sync_golden_layer' AIRFLOW_CTX_EXECUTION_DATE='2025-04-01T16:00:58.940207+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-01T16:00:58.940207+00:00'
+[2025-04-01T16:01:01.232+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-04-01T16:01:01.259+0000] {sql.py:450} INFO - Running statement: SELECT golden.refresh_types_statistics();, parameters: None
+[2025-04-01T16:01:01.271+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/sync_golden_layer_dag.py", line 18, in execute_sql_functions
+    hook.run(f"SELECT {sync_function}();")
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 398, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 455, in _run_command
+    cur.execute(sql_statement)
+psycopg2.errors.NotNullViolation: null value in column "Pokemon Type" of relation "types_statistics" violates not-null constraint
+DETAIL:  Failing row contains (null, 3, 2, 0).
+CONTEXT:  SQL statement "INSERT INTO golden.types_statistics
+    SELECT
+        pt."type" AS "Pokemon Type",
+        COUNT(*) AS "Number of Pokemons",
+        ABS(COUNT(*) - LEAD(COUNT(*)) OVER (ORDER BY COUNT(*) DESC, pt."type")) AS "Delta from next rank",
+        ABS(COUNT(*) - LAG(COUNT(*)) OVER (ORDER BY COUNT(*) DESC, pt."type")) AS "Delta from previous rank"
+    FROM silver.pokemon_types pt
+    GROUP BY pt."type"
+    ORDER BY "Number of Pokemons" DESC"
+PL/pgSQL function golden.refresh_types_statistics() line 4 at SQL statement
+
+[2025-04-01T16:01:01.291+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=sync_golden_layer_dag, task_id=sync_golden_layer, execution_date=20250401T160058, start_date=20250401T160100, end_date=20250401T160101
+[2025-04-01T16:01:01.325+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 126 for task sync_golden_layer (null value in column "Pokemon Type" of relation "types_statistics" violates not-null constraint
+DETAIL:  Failing row contains (null, 3, 2, 0).
+CONTEXT:  SQL statement "INSERT INTO golden.types_statistics
+    SELECT
+        pt."type" AS "Pokemon Type",
+        COUNT(*) AS "Number of Pokemons",
+        ABS(COUNT(*) - LEAD(COUNT(*)) OVER (ORDER BY COUNT(*) DESC, pt."type")) AS "Delta from next rank",
+        ABS(COUNT(*) - LAG(COUNT(*)) OVER (ORDER BY COUNT(*) DESC, pt."type")) AS "Delta from previous rank"
+    FROM silver.pokemon_types pt
+    GROUP BY pt."type"
+    ORDER BY "Number of Pokemons" DESC"
+PL/pgSQL function golden.refresh_types_statistics() line 4 at SQL statement
+; 79837)
+[2025-04-01T16:01:01.371+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-04-01T16:01:01.391+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

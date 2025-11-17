@@ -1,0 +1,33 @@
+[2025-03-09T18:34:37.145+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-03-09T18:34:35.791841+00:00 [queued]>
+[2025-03-09T18:34:37.149+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-03-09T18:34:35.791841+00:00 [queued]>
+[2025-03-09T18:34:37.149+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-03-09T18:34:37.156+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): sync_golden_layer> on 2025-03-09 18:34:35.791841+00:00
+[2025-03-09T18:34:37.158+0000] {standard_task_runner.py:60} INFO - Started process 1920 to run task
+[2025-03-09T18:34:37.161+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'sync_golden_layer_dag', 'sync_golden_layer', 'manual__2025-03-09T18:34:35.791841+00:00', '--job-id', '20', '--raw', '--subdir', 'DAGS_FOLDER/sync_golden_layer_dag.py', '--cfg-path', '/tmp/tmpk_e__5ds']
+[2025-03-09T18:34:37.163+0000] {standard_task_runner.py:88} INFO - Job 20: Subtask sync_golden_layer
+[2025-03-09T18:34:37.278+0000] {task_command.py:423} INFO - Running <TaskInstance: sync_golden_layer_dag.sync_golden_layer manual__2025-03-09T18:34:35.791841+00:00 [running]> on host 6ddfe969f968
+[2025-03-09T18:34:37.343+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='sync_golden_layer_dag' AIRFLOW_CTX_TASK_ID='sync_golden_layer' AIRFLOW_CTX_EXECUTION_DATE='2025-03-09T18:34:35.791841+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-09T18:34:35.791841+00:00'
+[2025-03-09T18:34:37.353+0000] {base.py:83} INFO - Using connection ID 'warehouse' for task execution.
+[2025-03-09T18:34:37.361+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/sync_golden_layer_dag.py", line 18, in execute_sql_functions
+    hook.run(f"SELECT {sync_function}();")
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 391, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/postgres/hooks/postgres.py", line 158, in get_conn
+    self.conn = psycopg2.connect(**conn_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  password authentication failed for user "Postgres"
+
+[2025-03-09T18:34:37.369+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=sync_golden_layer_dag, task_id=sync_golden_layer, execution_date=20250309T183435, start_date=20250309T183437, end_date=20250309T183437
+[2025-03-09T18:34:37.375+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 20 for task sync_golden_layer (connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  password authentication failed for user "Postgres"
+; 1920)
+[2025-03-09T18:34:37.386+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-03-09T18:34:37.401+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

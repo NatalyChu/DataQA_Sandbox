@@ -1,0 +1,14 @@
+[2025-04-01T14:48:23.569+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dump_pokemons_info_dag.dump_pokemons_stats manual__2025-04-01T14:48:02.425575+00:00 [queued]>
+[2025-04-01T14:48:23.577+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dump_pokemons_info_dag.dump_pokemons_stats manual__2025-04-01T14:48:02.425575+00:00 [queued]>
+[2025-04-01T14:48:23.577+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-04-01T14:48:23.592+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): dump_pokemons_stats> on 2025-04-01 14:48:02.425575+00:00
+[2025-04-01T14:48:23.606+0000] {standard_task_runner.py:60} INFO - Started process 76514 to run task
+[2025-04-01T14:48:23.615+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'dump_pokemons_info_dag', 'dump_pokemons_stats', 'manual__2025-04-01T14:48:02.425575+00:00', '--job-id', '99', '--raw', '--subdir', 'DAGS_FOLDER/dump_pokemons_info_dag.py', '--cfg-path', '/tmp/tmpy9utw9ek']
+[2025-04-01T14:48:23.618+0000] {standard_task_runner.py:88} INFO - Job 99: Subtask dump_pokemons_stats
+[2025-04-01T14:48:23.710+0000] {task_command.py:423} INFO - Running <TaskInstance: dump_pokemons_info_dag.dump_pokemons_stats manual__2025-04-01T14:48:02.425575+00:00 [running]> on host c082e54ac3bd
+[2025-04-01T14:48:23.816+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='dump_pokemons_info_dag' AIRFLOW_CTX_TASK_ID='dump_pokemons_stats' AIRFLOW_CTX_EXECUTION_DATE='2025-04-01T14:48:02.425575+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-01T14:48:02.425575+00:00'
+[2025-04-01T14:54:26.160+0000] {api_functions.py:27} INFO - pokemon_stats.csv successfully uploaded to MinIO
+[2025-04-01T14:54:26.168+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-04-01T14:54:26.180+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=dump_pokemons_info_dag, task_id=dump_pokemons_stats, execution_date=20250401T144802, start_date=20250401T144823, end_date=20250401T145426
+[2025-04-01T14:54:26.221+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-04-01T14:54:26.275+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check
