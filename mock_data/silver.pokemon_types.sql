@@ -1,0 +1,10 @@
+insert into silver.pokemon_types (pokemon, type) values ('charmander', 'normal');
+insert into silver.pokemon_types (pokemon, type) values ('squirtle', 'fighting');
+insert into silver.pokemon_types (pokemon, type) values ('magikarp', 'water');
+insert into silver.pokemon_types (pokemon, type) values ('snorlax', 'rock');
+insert into silver.pokemon_types (pokemon, type) values ('snorlax', 'steel');
+insert into silver.pokemon_types (pokemon, type) values ('gengar', 'bug');
+insert into silver.pokemon_types (pokemon, type) values ('magikarp', 'poison');
+insert into silver.pokemon_types (pokemon, type) values ('charmander', 'poison');
+insert into silver.pokemon_types (pokemon, type) values ('jigglypuff', 'ice');
+insert into silver.pokemon_types (pokemon, type) values ('snorlax', 'psychic');
